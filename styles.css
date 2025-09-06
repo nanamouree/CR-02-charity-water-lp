@@ -23,7 +23,6 @@ Fonts:
   This CSS uses the provided color palette and beginner-friendly styles.
 */
 
-/* Set up the main font and background color for the whole page */
 :root {
   --yellow: #FFC907;
   --yellow-dark: #E0B400;
